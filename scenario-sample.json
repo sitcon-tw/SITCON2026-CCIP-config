@@ -5,8 +5,8 @@
       "en-US": "Day 1 Check-in",
       "zh-TW": "Day 1 報到"
     },
-    "available_time": "2016/08/20 7:30 +0800",
-    "expire_time": "2016/08/20 17:00 +0800",
+    "available_time": "2026/03/28 7:30 +0800",
+    "expire_time": "2026/03/28 17:00 +0800",
     "countdown": 0,
     "related_scenario": [
       {
@@ -16,7 +16,7 @@
       },
       {
         "id": "day1lunch",
-        "disable_time": "2016/08/20 10:30 +0800",
+        "disable_time": "2026/03/28 10:30 +0800",
         "disable_message": "Too late to check-in",
         "staff_query_disable_message": "Please use your badge",
         "unlock": true
@@ -30,8 +30,8 @@
       "en-US": "Welcome Kit",
       "zh-TW": "迎賓袋"
     },
-    "available_time": "2016/08/20 8:30 +0800",
-    "expire_time": "2016/08/21 14:00 +0800",
+    "available_time": "2026/03/28 8:30 +0800",
+    "expire_time": "2026/03/28 14:00 +0800",
     "countdown": 30,
     "lock_message": "Haven't Check-in",
     "attr": [
@@ -47,8 +47,8 @@
       "en-US": "Day 1 Lunch",
       "zh-TW": "Day 1 午餐"
     },
-    "available_time": "2016/08/20 12:00 +0800",
-    "expire_time": "2016/08/21 14:00 +0800",
+    "available_time": "2026/03/28 12:00 +0800",
+    "expire_time": "2026/03/28 14:00 +0800",
     "countdown": 30,
     "lock_message": "Haven't Check-in",
     "attr": [
@@ -113,8 +113,8 @@
       "en-US": "Special Gift",
       "zh-TW": "獨家紀念品"
     },
-    "available_time": "2016/08/20 8:15 +0800",
-    "expire_time": "2016/08/21 14:00 +0800",
+    "available_time": "2026/03/28 8:15 +0800",
+    "expire_time": "2026/03/28 14:00 +0800",
     "countdown": 30,
     "not_lock_rule": {
       "row_name": "個人贊助",
