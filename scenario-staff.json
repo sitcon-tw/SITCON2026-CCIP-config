@@ -74,6 +74,11 @@
     },
     "available_time": "2026/03/28 17:30 +0800",
     "expire_time": "2026/03/28 20:00 +0800",
-    "countdown": 0
+    "countdown": 0,
+    "not_lock_rule": {
+      "row_name": "havecelebration",
+      "value_match": "Y",
+      "not_match_disable_message": "很抱歉，你沒有申請慶功宴。QQ"
+    }
   }
 }
