@@ -5,7 +5,7 @@
       "en-US": "Check-in",
       "zh-TW": "報到"
     },
-    "available_time": "2026/03/28 7:30 +0800",
+    "available_time": "2026/03/28 7:00 +0800",
     "expire_time": "2026/03/28 16:00 +0800",
     "countdown": 0,
     "related_scenario": [
@@ -28,7 +28,7 @@
       "en-US": "Speaker Welcome Kit",
       "zh-TW": "講者迎賓袋"
     },
-    "available_time": "2026/03/28 8:30 +0800",
+    "available_time": "2026/03/28 8:00 +0800",
     "expire_time": "2026/03/28 16:00 +0800",
     "countdown": 180,
     "attr": [
